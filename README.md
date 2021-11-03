@@ -7,18 +7,19 @@
 
 <p align="center">
 <a href="https://github.com/aiatulador">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aiatulador&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="260em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aiatulador&layout=compact&langs_count=8&theme=algolia"/>
+	<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=aiatulador&show_icons=true&count_private=true&theme=dracula" alt="aiatulador" />
+
+  <p align= "left" > <img height= "240em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aiatulador&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aiatulador&theme=radical" alt="Aiatul Al-Amin Ador" width="600" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aiatulador&theme=dracula" alt="Aiatul Al-Amin Ador" width="600" /></p>
 
 <hr>
 <h2 align='center'><i><a href="https://github.com/aiatulador/github-readme-activity-graph">Activity Graph</i></h2>
 <p align="center">
 <a href="https://github.com/aiatulador/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=aiatulador&theme=react-dark&area=true&hide_border=true" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=aiatulador&theme=dracula&area=true&hide_border=false" width="100%">
 </a>
 </p>
 	
