@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://github.com/aiatulador">
-	<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=aiatulador&show_icons=true&count_private=true&theme=dracula" alt="aiatulador" />
+	<p align="left"> <img height= "240em" src="https://github-readme-stats.vercel.app/api?username=aiatulador&show_icons=true&count_private=true&theme=dracula" alt="aiatulador" />
 
   <p align= "left" > <img height= "240em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aiatulador&layout=compact&langs_count=8&theme=dracula"/>
 </a>
@@ -23,7 +23,7 @@
 </a>
 </p>
 	
-	![Profile Views](https://komarev.com/ghpvc/?username=aiatulador)
+	// ![Profile Views](https://komarev.com/ghpvc/?username=aiatulador)
 
 
 
