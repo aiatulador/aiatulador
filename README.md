@@ -23,7 +23,7 @@
 </a>
 </p>
 	
-	// ![Profile Views](https://komarev.com/ghpvc/?username=aiatulador)
+	<!-- ![Profile Views](https://komarev.com/ghpvc/?username=aiatulador)
 
 
 
