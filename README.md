@@ -21,7 +21,7 @@
 <a href="https://github.com/aiatulador/github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=aiatulador&theme=dracula&area=true&hide_border=false" width="100%">
 </a>
-	![](https://komarev.com/ghpvc/?username=aiatulador)
+	
 </p>
 	
 
