@@ -26,10 +26,23 @@
 	
 </p>
 
-<img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1014?logoColor=white%26project=%26recentMS=0%26showProject=false" width="500"/>
+<img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1014?logoColor=white%26project=%26recentMS=0%26showProject=false" width="200"/>
 	
 ![Profile views](https://gpvc.arturio.dev/aiatulador)
+
+![GitHub metrics](https://metrics.lecoq.io/aiatulador)
 	
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aiatulador&show_icons=true)  
+	
+
+	
+<!-- <a target="_blank" href="https://aiatulador.github.io"><img width="550" align="right" src=""></a> -->
+	
+	
+ 
+
+
+
 
 
 
