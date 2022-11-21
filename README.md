@@ -27,6 +27,8 @@
 	
 </p>
 	
+![Profile views](https://gpvc.arturio.dev/aiatulador)
+	
 
 
 
