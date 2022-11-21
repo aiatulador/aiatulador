@@ -27,6 +27,7 @@
 </p>
 
 <img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1014?logoColor=white%26project=%26recentMS=0%26showProject=false" width="500"/>
+	
 ![Profile views](https://gpvc.arturio.dev/aiatulador)
 	
 
