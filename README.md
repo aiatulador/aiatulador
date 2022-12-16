@@ -2,9 +2,9 @@
 <h3 align='center'>I'm focusing on the research-based study and my research interest includes Machine Learning, Deep Learning, Generative Adversarial Networks(GAN). Currently working on "Medical image augmentation" with GAN.</h3>
 
 
-<figure>
-	<!-- <img src="https://wakatime.com/share/@a1cdcc24-5135-45fb-bcbb-dca1f8b595fa/433d0161-b404-4033-b12e-a5ebf26256d9.png" width="400" height="200" /> -->
-	<!-- <img src="https://wakatime.com/share/@a1cdcc24-5135-45fb-bcbb-dca1f8b595fa/c15f3c08-49a3-49b9-81de-e599352ca7b7.png" width="400" height="200" /> -->
+<p float="left">
+    <img src="https://wakatime.com/share/@a1cdcc24-5135-45fb-bcbb-dca1f8b595fa/94a001d6-b62b-4a34-9e74-924d262399e2.svg" width="49%" />
+</p>
 	
 
 <!-- <p align="center">
