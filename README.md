@@ -18,17 +18,23 @@
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aiatulador&theme=dracula" alt="Aiatul Al-Amin Ador" width="400" /></p>
 
 <hr>
-<h3 align='center'><i><a href="https://github.com/aiatulador/github-readme-activity-graph">Activity Graph</i></h3>
-<p align="center">
-<a href="https://github.com/aiatulador/github-readme-activity-graph">
+
+
+<!-- <h3 align='center'><i><a href="https://github.com/aiatulador/github-readme-activity-graph">Activity Graph</i></h3> -->
+
+
+<!-- <p align="center">
+<a href="https://github.com/aiatulador/github-readme-activity-graph"> 
  <img src="https://activity-graph.herokuapp.com/graph?username=aiatulador&theme=dracula&area=true&hide_border=false" width="50%">
-</a>
-	
+</a>	
 </p>
 
-<img alt="Code Time" src="https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/1014?logoColor=white%26project=%26recentMS=0%26showProject=false" width="200"/>
-	
+ -->
+
 ![Profile views](https://gpvc.arturio.dev/aiatulador)
+
+Total Coded since 2022: [![wakatime](https://wakatime.com/badge/user/a1cdcc24-5135-45fb-bcbb-dca1f8b595fa.svg)](https://wakatime.com/@a1cdcc24-5135-45fb-bcbb-dca1f8b595fa)
+	
 
 ![GitHub metrics](https://metrics.lecoq.io/aiatulador)
 	
@@ -36,7 +42,6 @@
 	
 
 	
-<!-- <a target="_blank" href="https://aiatulador.github.io"><img width="550" align="right" src=""></a> -->
 	
 	
  
