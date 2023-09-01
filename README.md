@@ -6,14 +6,10 @@ Combining my passion for football and data analysis, I enjoy analyzing matches u
 
 
 <p float="left">
-    <img src="https://wakatime.com/share/@a1cdcc24-5135-45fb-bcbb-dca1f8b595fa/94a001d6-b62b-4a34-9e74-924d262399e2.svg" width="49%" />
+    <img src="https://wakatime.com/share/@a1cdcc24-5135-45fb-bcbb-dca1f8b595fa/c7db0b02-165a-4b1b-98ad-6d46cc362c21.svg" width="49%" />
+    <img src="https://wakatime.com/share/@a1cdcc24-5135-45fb-bcbb-dca1f8b595fa/18156a6c-9f48-402e-afa5-3555d0472534.svg" width="49%" />
 </p>
 	
-
-<!-- <p align="center">
-<a href="https://github.com/aiatulador">
-	<p align="left"> <img weidght = "200em" height= "200em" src="https://github-readme-stats.vercel.app/api?username=aiatulador&show_icons=true&count_private=true&theme=dracula" alt="aiatulador" /> --> 
-
   <p align= "left" > <img height= "200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aiatulador&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
@@ -21,18 +17,6 @@ Combining my passion for football and data analysis, I enjoy analyzing matches u
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aiatulador&theme=dracula" alt="Aiatul Al-Amin Ador" width="400" /></p>
 
 <hr>
-
-
-<!-- <h3 align='center'><i><a href="https://github.com/aiatulador/github-readme-activity-graph">Activity Graph</i></h3> -->
-
-
-<!-- <p align="center">
-<a href="https://github.com/aiatulador/github-readme-activity-graph"> 
- <img src="https://activity-graph.herokuapp.com/graph?username=aiatulador&theme=dracula&area=true&hide_border=false" width="50%">
-</a>	
-</p>
-
- -->
 
 ![Profile views](https://gpvc.arturio.dev/aiatulador)
 
