@@ -25,9 +25,9 @@ Outside of work, I'm deeply passionate about football and data analysis. I use s
 Feel free to connect or reach out:
 - Email: [aiatulador75@gmail.com](mailto:aiatulador75@gmail.com)
 <p align="left">
-<a href="https://twitter.com/aiatulador22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="copotronicrifat" height="30" width="40" /></a>
-<a href="https://fb.com/aiatulador" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="where.is.rifat" height="30" width="40" /></a>
-<a href="https://instagram.com/aiatuladort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="where.is.rifat" height="30" width="40" /></a>
+<a href="https://twitter.com/aiatulador22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aiatulador" height="30" width="40" /></a>
+<a href="https://fb.com/aiatulador" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aiatulador" height="30" width="40" /></a>
+<a href="https://instagram.com/aiatuladort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aiatulador" height="30" width="40" /></a>
 
 </p>
 
