@@ -36,24 +36,22 @@ Let's collaborate and build great things together! 😄
 ##
 Total Coded since 2022: [![wakatime](https://wakatime.com/badge/user/a1cdcc24-5135-45fb-bcbb-dca1f8b595fa.svg)](https://wakatime.com/@a1cdcc24-5135-45fb-bcbb-dca1f8b595fa)
 
-<p float="left">
+ <p float="left">
     <img src="https://wakatime.com/share/@a1cdcc24-5135-45fb-bcbb-dca1f8b595fa/c7db0b02-165a-4b1b-98ad-6d46cc362c21.svg" width="49%" />
     <img src="https://wakatime.com/share/@a1cdcc24-5135-45fb-bcbb-dca1f8b595fa/18156a6c-9f48-402e-afa5-3555d0472534.svg" width="49%" />
-</p>
+</p> -->
 	
-  <p align= "left" > <img height= "200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aiatulador&layout=compact&langs_count=8&theme=dracula"/>
+<!--  <p align= "left" > <img height= "200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aiatulador&layout=compact&langs_count=8&theme=dracula"/>
 </a>
-</p>
+</p> 
+-----------------------------------------------------------------------------------------------------------------------------------------
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aiatulador&theme=dracula" alt="Aiatul Al-Amin Ador" width="400" /></p>
-
-<hr>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aiatulador&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aiatulador&show_icons=true&theme=dark)
 
 
-![GitHub metrics](https://metrics.lecoq.io/aiatulador)
-
-![Profile views](https://gpvc.arturio.dev/aiatulador)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aiatulador&label=Profile%20views&color=0e75b6&style=flat" alt="aiatulador" /> </p>
+----------------------------------------------------------------------------------------------------------------------------------------
+ ![Profile views](https://gpvc.arturio.dev/aiatulador)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aiatulador&label=Profile%20views&color=0e75b6&style=flat" alt="aiatulador" /> </p> 
 	
 	
 
