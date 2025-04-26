@@ -36,7 +36,7 @@ Feel free to connect or reach out:
 Let's collaborate and build great things together! 😄
 
 ##
-Total Coded since 2022: [![wakatime](https://wakatime.com/badge/user/a1cdcc24-5135-45fb-bcbb-dca1f8b595fa.svg)](https://wakatime.com/@a1cdcc24-5135-45fb-bcbb-dca1f8b595fa)
+<!-- Total Coded since 2022: [![wakatime](https://wakatime.com/badge/user/a1cdcc24-5135-45fb-bcbb-dca1f8b595fa.svg)](https://wakatime.com/@a1cdcc24-5135-45fb-bcbb-dca1f8b595fa) --> 
 
  <p float="left">
     <img src="https://wakatime.com/share/@a1cdcc24-5135-45fb-bcbb-dca1f8b595fa/c7db0b02-165a-4b1b-98ad-6d46cc362c21.svg" width="49%" />
