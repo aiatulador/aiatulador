@@ -29,7 +29,7 @@ Feel free to connect or reach out:
 <p align="left">
 <a href="https://twitter.com/aiatulador22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aiatulador" height="30" width="40" /></a>
 <a href="https://fb.com/aiatulador" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aiatulador" height="30" width="40" /></a>
-<a href="https://instagram.com/aiatuladort" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aiatulador" height="30" width="40" /></a>
+<a href="https://instagram.com/aiatulador" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aiatulador" height="30" width="40" /></a>
 
 </p>
 
