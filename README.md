@@ -1,25 +1,27 @@
 ## Bio:
 ## Hey, I'm **Aiatul Al-amin Ador** 👋
 
-I'm a Computer Science and Engineering graduate with a strong background in software development and a Bachelor's degree from the University of Asia Pacific.
+I'm a Computer Science and Engineering graduate passionate about delivering high-quality software solutions. I hold a Bachelor's degree from the University of Asia Pacific, and I specialize in Software Quality Assurance (SQA) and Testing.
 
 ### 🔧 Technologies & Expertise
-- Object-Oriented Programming (OOP)
-- Java.
-- Spring Boot.
-- Python.
+
+- Software Testing (Manual)
+- Test Case Design & Execution
+- Bug Reporting & Tracking (JIRA)
+- Scripting (Python, Shell scripting)
 - Shell scripting.
-- HTML/CSS
-  
+- Java
+- API Testing
+- Agile & Scrum Methodologies
 
 ### 🚀 What I Do
-I love building efficient and scalable solutions using my skills in Java and OOP. Whether it's web development, data analysis, or scripting, I enjoy the process of translating complex ideas into practical code. I also have hands-on experience with Python, shell scripting, and web technologies.
+I focus on ensuring software reliability, functionality, and performance through rigorous testing strategies. I strive to find bugs early and ensure smooth user experiences. My background in software development also enables me to collaborate closely with developers for better quality delivery.
 
 ### 🌟 Why I'm Here
-My career ambition is to make a meaningful impact by contributing to exciting projects and driving technological advancements. I believe in the power of open-source collaboration and continuous learning.
+My goal is to contribute to innovative projects by ensuring product excellence through meticulous testing and analysis. I believe continuous learning, proactive communication, and attention to detail are key to a successful SQA career.
 
 ### ⚡ Fun Fact
-Outside of work, I'm deeply passionate about football and data analysis. I use statistical tools to analyze matches, uncover insights, and enhance performance. This hobby further hones my analytical thinking and attention to detail.
+Outside of testing, I'm a huge football fan and a data analysis enthusiast! I love applying statistical methods to analyze football matches, which sharpens my critical thinking and problem-solving skills.
 
 ### 📬 Get in Touch
 Feel free to connect or reach out:
