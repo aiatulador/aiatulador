@@ -3,16 +3,19 @@
 
 I'm a Computer Science and Engineering graduate passionate about delivering high-quality software solutions. I hold a Bachelor's degree from the University of Asia Pacific, and I specialize in Software Quality Assurance (SQA) and Testing.
 
-### 🔧 Technologies & Expertise
+### 💻 Technical Skills
 
-- Software Testing (Manual)
-- Test Case Design & Execution
-- Bug Reporting & Tracking (JIRA)
-- Scripting (Python, Shell scripting)
-- Shell scripting.
-- Java
-- API Testing
-- Agile & Scrum Methodologies
+- **Web Technologies:** HTML, CSS  
+- **Programming Languages:** Java, Python  
+- **Databases:** MySQL, SQLite  
+- **Test Automation Frameworks:** Selenium  
+- **API Testing Tools:** Postman  
+- **Source & Version Control:** Git, GitHub  
+- **Core Concepts:** SDLC, STLC, OOP  
+- **Agile & Project Management Tools:** Jira, Confluence  
+- **Documentation:** BRS, SRS  
+- **Manual Testing:** Requirement Analysis, Test Planning, Test Case Design & Review, Test Execution, Reporting, Root Cause Analysis, Bug Tracking using test management tools  
+- **Applications:** Word, Excel, PowerPoint, Outlook, Teams, Zoho, Slack
 
 ### 🚀 What I Do
 I focus on ensuring software reliability, functionality, and performance through rigorous testing strategies. I strive to find bugs early and ensure smooth user experiences. My background in software development also enables me to collaborate closely with developers for better quality delivery.
